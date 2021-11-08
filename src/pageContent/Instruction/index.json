@@ -1,0 +1,24 @@
+{
+  "div": {
+    "display": "flex",
+    "flexDirection": "column",
+    "alignItems": "center",
+    "fontFamily": "Helvetica Neue"
+  },
+  "a": {
+    "fontSize": 16,
+    "textAlign": "center",
+    "fontWeight": "bold",
+    "color": "#324F85"
+  },
+  "p": {
+    "fontSize": 34,
+    "textAlign": "center",
+    "color": "#7f8f96d"
+  },
+  "h5": {
+    "fontWeight": "normal",
+    "fontSize": 18,
+    "textAlign": "center"
+  }
+}
