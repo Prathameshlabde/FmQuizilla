@@ -9,7 +9,7 @@ import { updateComponentState } from "../../actions/component.actions";
 import { Text } from "react-native";
 
 import { styles } from "../../styles/styles";
-
+//change55
 class Timer extends Component {
   _isMounted = false;
   static propTypes = {
